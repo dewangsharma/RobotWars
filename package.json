@@ -1,0 +1,15 @@
+{
+    "name": "robotwar",
+    "version": "1.0.0",
+    "description": "robot wars",
+    "main": "app.js",
+    "scripts": {
+        "tests": "./node_modules/mocha/bin/mocha tests/*.js --reporter spec"
+    },
+    "author": "Dewang Sharma",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^5.2.0"
+    }
+}
